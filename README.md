@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 I'm passionate about crafting responsive, dynamic web applications with clean, scalable code. With solid experience in React, Redux, and TypeScript, I thrive on building intuitive user interfaces and solving complex frontend challenges. I love experimenting with modern UI frameworks like Tailwind CSS, and I’m always focused on writing efficient, performant code.
 
 ### 🔭 What I’m Working On:
-Currently building and maintaining applications using React.js and TypeScript, while continuously refining my skills in state management, performance optimization, and responsive design.
+Building and maintaining applications using React.js and TypeScript with Jest as the unit testing framework.
 
 ### 🌱 What I’m Learning:
-I’m always expanding my toolkit, staying on top of the latest trends in JavaScript, frontend frameworks, and testing libraries to push the boundaries of what’s possible in web development.
+I’m always expanding my toolkit, staying on top of the latest trends in JavaScript, frontend frameworks, and testing libraries for refining my skills in state management, performance optimization, and responsive design.
 
 ### 👀 Fun Fact:
 When I’m not coding, you’ll likely find me immersed in the worlds of epic fantasy—especially the incredible universes crafted by Brandon Sanderson!
